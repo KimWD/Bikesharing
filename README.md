@@ -35,4 +35,6 @@ Analysis of the bike-sharing program in NYC, to see if it may be a good business
 
 # Summary:
 
+From the seven graphs put together above, it appears that a bike program would be a positive and money making venture in Des Moines, Iowa, as long as there is a metropolitian area that many employees work.  This is because most of the use is around going to and from work.  Also, the majority are subscribers, meaning the majority of users are long term, and not dependant on tourism. 
+
 [Link to Tableau CitiBike Story](https://public.tableau.com/app/profile/kimberly.wagner.dabbour/viz/CitiBikeVisualizations_16558401044590/CItiBikeUtilizations?publish=yes "Link to Tableau CitiBike Story")
