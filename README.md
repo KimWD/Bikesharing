@@ -7,7 +7,7 @@ The purpose of the analysis is well defined. (5 pt)
 1. ![Check-Out_Times_for_Users](Visualizations/Check-Out_Times_for_Users.png)
 There is a description of the results for each visualization (7 pt)
 
-2. 
+2. ![Check-Out Times by Gender](Visualizations/Check-Out Times by Gender.png)
 3.
 4.
 5.
